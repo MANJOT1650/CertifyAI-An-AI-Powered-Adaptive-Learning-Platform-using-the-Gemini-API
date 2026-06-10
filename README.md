@@ -22,20 +22,6 @@ https://github.com/MANJOT1650
 
 ---
 
-### BONAFIDE CERTIFICATE
-
-Certified that this project report **"CertifyAI - An AI-Powered Adaptive Learning Platform"** is the bonafide work of **[Your Name] ([Your ID])** who carried out the project work under my/our supervision.
-
-<br/>
-
-**SIGNATURE**
-
-**[Name of Supervisor]**
-
-**HEAD OF THE DEPARTMENT / SUPERVISOR**
-
----
-
 ### PROJECT TITLE
 
 CertifyAI - An AI-Powered Adaptive Learning Platform
