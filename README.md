@@ -15,9 +15,10 @@ _Submitted in partial fulfillment of the requirements for..._
 
 **Submitted By:**
 
-[Your Name]
+Manjot Singh
 
-[Your ID/Roll No.]
+https://www.linkedin.com/in/manjot-singh-946121325
+https://github.com/MANJOT1650
 
 ---
 
